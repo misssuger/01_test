@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>测试2</title>
+</head>
+<body>
+<div id="fuckIt"></div>
+<div id="FuckFuckFuck"></div>
+<script type="text/javascript" src="../js/react.development.js"></script>
+<script type="text/javascript" src="../js/react-dom.development.js"></script>
+<script type="text/javascript" src="../js/babel.min.js"></script>
+<script type="text/javascript">
+    const msg = 'Am I success?'
+    const fuckingId = 'whatShit'
+    const vDom1 =  React.createElement('h1',{id:fuckingId.toUpperCase()},msg.toLowerCase())
+    ReactDOM.render(vDom1,document.getElementById("fuckIt"))
+</script>
+<script type="text/babel">
+    const vDom2 = <h2 id={fuckingId.toLowerCase()}>{msg.toUpperCase()}</h2>
+    ReactDOM.render(vDom2,document.getElementById("FuckFuckFuck"))
+</script>
+</body>
+</html>

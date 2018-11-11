@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>前端js框架列表</title>
+</head>
+<body>
+<div id="div1"></div>
+<script type="text/javascript" src="../js/react.development.js"></script>
+<script type="text/javascript" src="../js/react-dom.development.js"></script>
+<script type="text/javascript" src="../js/babel.min.js"></script>
+<script type="text/babel">
+    const names = ['jQuery', 'zepto', 'augular', 'react', 'vue']
+    //1.创建虚拟DOM
+    /*
+     * <ul>
+     *     <li>{name}</li>
+     * </ul>
+     */
+    const ulDom = (
+        <ul>
+            {
+                names.map((name, index) => <li key={index}>{name}</li>)
+            }
+        </ul>
+    )
+    //2.渲染虚拟DOM
+    ReactDOM.render(ulDom, document.getElementById("div1"))
+</script>
+</body>
+</html>
