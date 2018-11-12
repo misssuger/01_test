@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f1e6645-b3ac-4c0b-b709-7e9999760629" name="Default Changelist" comment="导入项目">
-      <change afterPath="$PROJECT_DIR$/react_test/work/01_HelloWorld/test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_test/work/02_JSX/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_test/work/02_JSX/test2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_test/work/02_JSX/test3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_test/work/03_component_basic/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_test/work/04_component_state/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react_test/work/04_component_state/test2.html" afterDir="false" />
+    <list default="true" id="0f1e6645-b3ac-4c0b-b709-7e9999760629" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/react_test/work/05_component_props/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react_test/work/js/prop-types.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react_test/work/01_HelloWorld/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/react_test/work/01_HelloWorld/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react_test/work/03_component_basic/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/react_test/work/03_component_basic/test.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -25,42 +20,44 @@
     <session id="2011667116">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="13" />
-          <entry key="js" value="13" />
+          <entry key="html" value="15" />
+          <entry key="js" value="16" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="13" />
-          <entry key="JavaScript" value="13" />
+          <entry key="HTML" value="15" />
+          <entry key="JavaScript" value="16" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="3445" />
+          <entry key="html" value="4246" />
           <entry key="js" value="24" />
-          <entry key="txt" value="33" />
+          <entry key="txt" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="3445" />
+          <entry key="HTML" value="4246" />
           <entry key="JavaScript" value="24" />
-          <entry key="PLAIN_TEXT" value="33" />
+          <entry key="PLAIN_TEXT" value="46" />
         </counts>
       </usages-collector>
     </session>
@@ -68,19 +65,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react_test/work/04_component_state/test.html">
+        <entry file="file://$PROJECT_DIR$/react_test/work/04_component_state/test2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-63">
-              <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            <state relative-caret-position="-195">
+              <caret line="21" column="56" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/react_test/work/03_component_basic/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/react_test/work/04_component_state/test2.html">
+        <entry file="file://$PROJECT_DIR$/react_test/work/05_component_props/test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+            <state relative-caret-position="104">
+              <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -98,10 +104,14 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="misssuger &lt;misssuger@sina.com&gt;" />
         <option value="misssuger@sina.com" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -112,9 +122,10 @@
         <option value="$PROJECT_DIR$/react_test/work/01_HelloWorld/test2.html" />
         <option value="$PROJECT_DIR$/react_test/work/02_JSX/test2.html" />
         <option value="$PROJECT_DIR$/react_test/work/02_JSX/test3.html" />
-        <option value="$PROJECT_DIR$/react_test/work/03_component_basic/test.html" />
         <option value="$PROJECT_DIR$/react_test/work/04_component_state/test.html" />
         <option value="$PROJECT_DIR$/react_test/work/04_component_state/test2.html" />
+        <option value="$PROJECT_DIR$/react_test/work/03_component_basic/test.html" />
+        <option value="$PROJECT_DIR$/react_test/work/05_component_props/test.html" />
       </list>
     </option>
   </component>
@@ -138,35 +149,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="react_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="react_test" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="react_test" type="462c0819:PsiDirectoryNode" />
-              <item name="work" type="462c0819:PsiDirectoryNode" />
-              <item name="04_component_state" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Changed Files'; set:Changed Files; ALL; class com.intellij.packageDependencies.ChangeListScope">
           <expand>
@@ -237,6 +219,35 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="react_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="react_test" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="react_test" type="462c0819:PsiDirectoryNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="05_component_props" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -251,12 +262,12 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\wsspace\test\react_test\work" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\wsspace\test\react_test\work\js" />
       <recent name="D:\wsspace\test\react_test\work\01_HelloWorld" />
+      <recent name="D:\wsspace\test\react_test\work" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\wsspace\test\react_test\work" />
     </key>
   </component>
@@ -272,12 +283,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.test2.html">
+    <configuration name="test2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/test/react_test/work/04_component_state/test2.html">
+      <method v="2" />
+    </configuration>
     <configuration name="01.helloNode.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/node_test/01.helloNode.js" working-dir="$PROJECT_DIR$/node_test">
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Node.js.01.helloNode.js" />
+      <item itemvalue="JavaScript Debug.test2.html" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.test2.html" />
         <item itemvalue="Node.js.01.helloNode.js" />
       </list>
     </recent_temporary>
@@ -301,12 +320,22 @@
       <workItem from="1541658811467" duration="1384000" />
       <workItem from="1541725742137" duration="3148000" />
       <workItem from="1541732349487" duration="676000" />
-      <workItem from="1541939238049" duration="7717000" />
+      <workItem from="1541939238049" duration="8043000" />
+      <workItem from="1541954148851" duration="33000" />
+      <workItem from="1542030343974" duration="3370000" />
     </task>
+    <task id="LOCAL-00001" summary="新增组件测试">
+      <created>1541953611851</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541953611851</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24501000" />
+    <option name="totallyTimeSpent" value="28230000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -321,7 +350,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22321428" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22321428" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -332,9 +361,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49925596" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.453125" visible="true" weight="0.26350245" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.546875" side_tool="true" visible="true" weight="0.26350245" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49627978" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.45238096" weight="0.26350245" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5037202" side_tool="true" visible="true" weight="0.3289689" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -347,10 +376,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="导入项目" />
+    <MESSAGE value="新增组件测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增组件测试" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/react_test/work/js/react.development.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/react_test/work/js/browser.js" />
     <entry file="file://$PROJECT_DIR$/node_test/01.helloNode.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -363,13 +394,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="16068" selection-start-line="16068" selection-end-line="16068" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/react_test/work/js/babel.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret column="2525582" selection-start-column="2525582" selection-end-column="2525582" />
         </state>
       </provider>
     </entry>
@@ -408,24 +432,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/react_test/work/04_component_state/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_test/work/js/babel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret column="2525582" selection-start-column="2525582" selection-end-column="2525582" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_test/work/js/react.development.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/react_test/work/04_component_state/test2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="21" column="56" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/react_test/work/03_component_basic/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
+        <state relative-caret-position="92">
           <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react_test/work/04_component_state/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
-          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/react_test/work/js/prop-types.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/react_test/work/04_component_state/test2.html">
+    <entry file="file://$PROJECT_DIR$/react_test/work/05_component_props/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        <state relative-caret-position="104">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
         </state>
       </provider>
     </entry>
